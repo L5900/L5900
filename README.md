@@ -24,6 +24,8 @@ I am now completing an MSc in Artificial Intelligence at the University of Bolog
 
 Before moving to AI I worked on geometric topology. Curves on surfaces are sometimes called a *current* and can be **very** complicated. Every current gives rise to a dual space called (surprise) *the dual space of the current*. I spent lots of time studying the class of dual spaces of currents and it turns out they have surprising and somewhat mysterious properties. [Here](https://arxiv.org/abs/2211.05164) is my paper together with Dídac Martínez-Granado, where we develop a theory for dual spaces of currents. 
 
+![Sketch of a dual space of a simple curve](dual_graph_vertices.png)
+
 In another branch of my research I got interested in non-Archimedean real closed fields, and in [this paper](https://arxiv.org/abs/2212.09640) (joint work with R. Appenzeller, X. Flamm and V. Jaeck) we constructed a space that disproved a conjecture (or rather a common belief) about certain types of R-trees. 
 
 [Here](https://www.research-collection.ethz.ch/server/api/core/bitstreams/a1fdbe98-1340-40a5-8ca8-2404f842d06e/content) is my doctoral thesis, written under the supervision of Prof. Marc Burger.
