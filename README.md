@@ -28,7 +28,11 @@ I am now completing an MSc in Artificial Intelligence at the University of Bolog
 
 ## Research
 
-Before moving to AI I worked on geometric topology. Curves on surfaces are sometimes called a *current* and can be **very** complicated. Every current gives rise to a dual space called (surprise) *the dual space of the current*. I spent lots of time studying the class of dual spaces of currents and it turns out they have surprising and somewhat mysterious properties. [Here](https://arxiv.org/abs/2211.05164) is my paper together with Dídac Martínez-Granado, where we develop a theory for dual spaces of currents.
+Before moving to AI I worked on geometric topology. Curves on surfaces are sometimes called a *current* and can be **very** complicated. 
+<p align="center">
+  <img src="decomposition22.svg" width="380" alt="A current on a surface">
+</p>
+Every current gives rise to a dual space called (surprise) *the dual space of the current*. I spent lots of time studying the class of dual spaces of currents and it turns out they have surprising and somewhat mysterious properties. [Here](https://arxiv.org/abs/2211.05164) is my paper together with Dídac Martínez-Granado, where we develop a theory for dual spaces of currents.
 
 <p align="center">
   <img src="dual_graph_vertices.png" width="380" alt="Sketch of a dual space of a simple curve">
