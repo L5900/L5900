@@ -11,19 +11,18 @@ I am now completing an MSc in Artificial Intelligence at the University of Bolog
 - [**coin-recognition**](https://github.com/L5900/coin-recognition): detecting and recognising euro coins in photos with classical computer vision (OpenCV, group project).
 - [**lexilands**](https://github.com/L5900/lexilands): a quiz to learn to recognise European languages from city names, made for Geoguessr players (my CS50P final project; [certificate](CERTIFICATE_LINK)).
 
-
+<div align="center">
 <table>
-  <p align="center">
   <tr>
-    <td align="center" width="50%"><a href="https://github.com/L5900/wildfire-risk-italy"><img src="https://raw.githubusercontent.com/L5900/wildfire-risk-italy/main/figures/detections_map.png" height="260"><br><b>wildfire-risk-italy</b></a></td>
-    <td align="center" width="50%"><a href="https://github.com/L5900/jigsaw-transformer"><img src="https://raw.githubusercontent.com/L5900/jigsaw-transformer/main/figures/predictions.png" height="260"><br><b>jigsaw-transformer</b></a></td>
+    <td align="center">&emsp;<a href="https://github.com/L5900/wildfire-risk-italy"><img src="https://raw.githubusercontent.com/L5900/wildfire-risk-italy/main/figures/detections_map.png" height="280"></a>&emsp;<br><b>wildfire-risk-italy</b><br><br></td>
+    <td align="center">&emsp;<a href="https://github.com/L5900/jigsaw-transformer"><img src="https://raw.githubusercontent.com/L5900/jigsaw-transformer/main/figures/predictions.png" height="280"></a>&emsp;<br><b>jigsaw-transformer</b><br><br></td>
   </tr>
   <tr>
-    <td align="center" width="50%"><a href="https://github.com/L5900/coin-recognition"><img src="https://raw.githubusercontent.com/L5900/coin-recognition/main/figures/predictions.jpg" height="260"><br><b>coin-recognition</b></a></td>
-    <td align="center" width="50%"><a href="https://github.com/L5900/aircraft-classification-ablation"><img src="https://raw.githubusercontent.com/L5900/aircraft-classification-ablation/main/figures/samples.png" height="260"><br><b>aircraft-classification-ablation</b></a></td>
+    <td align="center">&emsp;<a href="https://github.com/L5900/coin-recognition"><img src="https://raw.githubusercontent.com/L5900/coin-recognition/main/figures/predictions.jpg" height="280"></a>&emsp;<br><b>coin-recognition</b><br><br></td>
+    <td align="center">&emsp;<a href="https://github.com/L5900/aircraft-classification-ablation"><img src="https://raw.githubusercontent.com/L5900/aircraft-classification-ablation/main/figures/samples.png" height="280"></a>&emsp;<br><b>aircraft-classification-ablation</b><br><br></td>
   </tr>
-  </p>
 </table>
+</div>
 
 
 ## Research
