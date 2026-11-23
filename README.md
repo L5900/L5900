@@ -45,4 +45,4 @@ If you have any questions or are curious about my projects and/or research, feel
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/luca-de-rosa-b52164264) · [derosaluca.1992@gmail.com](mailto:derosaluca.1992@gmail.com)
+[derosaluca.1992@gmail.com](mailto:derosaluca.1992@gmail.com)
