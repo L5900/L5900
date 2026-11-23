@@ -13,20 +13,24 @@ I am now completing an MSc in Artificial Intelligence at the University of Bolog
 
 <table>
   <tr>
-    <td align="center" width="25%"><a href="https://github.com/L5900/wildfire-risk-italy"><img src="https://github.com/L5900/wildfire-risk-italy/raw/main/figures/test_actual_vs_predicted.gif" width="200"><br><b>wildfire-risk-italy</b></a></td>
-    <td align="center" width="25%"><a href="https://github.com/L5900/jigsaw-transformer"><img src="https://github.com/L5900/jigsaw-transformer/raw/main/figures/predictions.png" width="200"><br><b>jigsaw-transformer</b></a></td>
-    <td align="center" width="25%"><a href="https://github.com/L5900/coin-recognition"><img src="https://github.com/L5900/coin-recognition/raw/main/figures/predictions.jpg" width="200"><br><b>coin-recognition</b></a></td>
-    <td align="center" width="25%"><a href="https://github.com/L5900/aircraft-classification-ablation"><img src="https://github.com/L5900/aircraft-classification-ablation/raw/main/figures/samples.png" width="200"><br><b>aircraft-classification-ablation</b></a></td>
+    <td align="center" width="50%"><a href="https://github.com/L5900/wildfire-risk-italy"><img src="https://raw.githubusercontent.com/L5900/wildfire-risk-italy/main/figures/detections_map.png" height="260"><br><b>wildfire-risk-italy</b></a></td>
+    <td align="center" width="50%"><a href="https://github.com/L5900/jigsaw-transformer"><img src="https://raw.githubusercontent.com/L5900/jigsaw-transformer/main/figures/predictions.png" height="260"><br><b>jigsaw-transformer</b></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><a href="https://github.com/L5900/coin-recognition"><img src="https://raw.githubusercontent.com/L5900/coin-recognition/main/figures/predictions.jpg" height="260"><br><b>coin-recognition</b></a></td>
+    <td align="center" width="50%"><a href="https://github.com/L5900/aircraft-classification-ablation"><img src="https://raw.githubusercontent.com/L5900/aircraft-classification-ablation/main/figures/samples.png" height="260"><br><b>aircraft-classification-ablation</b></a></td>
   </tr>
 </table>
 
 ## Research
 
-Before moving to AI I worked on geometric topology. Curves on surfaces are sometimes called a *current* and can be **very** complicated. Every current gives rise to a dual space called (surprise) *the dual space of the current*. I spent lots of time studying the class of dual spaces of currents and it turns out they have surprising and somewhat mysterious properties. [Here](https://arxiv.org/abs/2211.05164) is my paper together with Dídac Martínez-Granado, where we develop a theory for dual spaces of currents. 
+Before moving to AI I worked on geometric topology. Curves on surfaces are sometimes called a *current* and can be **very** complicated. Every current gives rise to a dual space called (surprise) *the dual space of the current*. I spent lots of time studying the class of dual spaces of currents and it turns out they have surprising and somewhat mysterious properties. [Here](https://arxiv.org/abs/2211.05164) is my paper together with Dídac Martínez-Granado, where we develop a theory for dual spaces of currents.
 
-![Sketch of a dual space of a simple curve](dual_graph_vertices.png)
+<p align="center">
+  <img src="dual_graph_vertices.png" width="380" alt="Sketch of a dual space of a simple curve">
+</p>
 
-In another branch of my research I got interested in non-Archimedean real closed fields, and in [this paper](https://arxiv.org/abs/2212.09640) (joint work with R. Appenzeller, X. Flamm and V. Jaeck) we constructed a space that disproved a conjecture (or rather a common belief) about certain types of R-trees. 
+In another branch of my research I got interested in non-Archimedean real closed fields, and in [this paper](https://arxiv.org/abs/2212.09640) (joint work with R. Appenzeller, X. Flamm and V. Jaeck) we constructed a space that disproved a conjecture (or rather a common belief) about certain types of R-trees.
 
 [Here](https://www.research-collection.ethz.ch/server/api/core/bitstreams/a1fdbe98-1340-40a5-8ca8-2404f842d06e/content) is my doctoral thesis, written under the supervision of Prof. Marc Burger.
 
