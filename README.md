@@ -11,6 +11,8 @@ I am now completing an MSc in Artificial Intelligence at the University of Bolog
 - [**coin-recognition**](https://github.com/L5900/coin-recognition): detecting and recognising euro coins in photos with classical computer vision (OpenCV, group project).
 - [**lexilands**](https://github.com/L5900/lexilands): a quiz to learn to recognise European languages from city names, made for Geoguessr players (my CS50P final project; [certificate](CERTIFICATE_LINK)).
 
+
+<p align="center">
 <table>
   <tr>
     <td align="center" width="50%"><a href="https://github.com/L5900/wildfire-risk-italy"><img src="https://raw.githubusercontent.com/L5900/wildfire-risk-italy/main/figures/detections_map.png" height="260"><br><b>wildfire-risk-italy</b></a></td>
@@ -21,6 +23,7 @@ I am now completing an MSc in Artificial Intelligence at the University of Bolog
     <td align="center" width="50%"><a href="https://github.com/L5900/aircraft-classification-ablation"><img src="https://raw.githubusercontent.com/L5900/aircraft-classification-ablation/main/figures/samples.png" height="260"><br><b>aircraft-classification-ablation</b></a></td>
   </tr>
 </table>
+</p>
 
 ## Research
 
