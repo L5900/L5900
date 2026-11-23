@@ -9,7 +9,7 @@ I am now completing an MSc in Artificial Intelligence at the University of Bolog
 - [**jigsaw-transformer**](https://github.com/L5900/jigsaw-transformer): reconstructing images from 9 shuffled, eroded patches with a transformer that predicts the arrangement and inpaints the gaps (Keras, 3.7M parameters).
 - [**aircraft-classification-ablation**](https://github.com/L5900/aircraft-classification-ablation): a CNN trained from scratch on 100 aircraft variants, an ablation study of its design choices, and transfer learning with ResNet-18 (PyTorch, group project).
 - [**coin-recognition**](https://github.com/L5900/coin-recognition): detecting and recognising euro coins in photos with classical computer vision (OpenCV, group project).
-- [**lexilands**](https://github.com/L5900/lexilands): a quiz to learn to recognise European languages from city names, made for Geoguessr players (my CS50P final project; [certificate](CERTIFICATE_LINK)).
+- [**lexilands**](https://github.com/L5900/lexilands): a quiz to learn to recognise European languages from city names, made for Geoguessr players (my CS50P final project; [certificate](Harvard_certificate.pdf)).
 
 <div align="center">
 <table>
