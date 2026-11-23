@@ -12,8 +12,8 @@ I am now completing an MSc in Artificial Intelligence at the University of Bolog
 - [**lexilands**](https://github.com/L5900/lexilands): a quiz to learn to recognise European languages from city names, made for Geoguessr players (my CS50P final project; [certificate](CERTIFICATE_LINK)).
 
 
-<p align="center">
 <table>
+  <p align="center">
   <tr>
     <td align="center" width="50%"><a href="https://github.com/L5900/wildfire-risk-italy"><img src="https://raw.githubusercontent.com/L5900/wildfire-risk-italy/main/figures/detections_map.png" height="260"><br><b>wildfire-risk-italy</b></a></td>
     <td align="center" width="50%"><a href="https://github.com/L5900/jigsaw-transformer"><img src="https://raw.githubusercontent.com/L5900/jigsaw-transformer/main/figures/predictions.png" height="260"><br><b>jigsaw-transformer</b></a></td>
@@ -22,8 +22,9 @@ I am now completing an MSc in Artificial Intelligence at the University of Bolog
     <td align="center" width="50%"><a href="https://github.com/L5900/coin-recognition"><img src="https://raw.githubusercontent.com/L5900/coin-recognition/main/figures/predictions.jpg" height="260"><br><b>coin-recognition</b></a></td>
     <td align="center" width="50%"><a href="https://github.com/L5900/aircraft-classification-ablation"><img src="https://raw.githubusercontent.com/L5900/aircraft-classification-ablation/main/figures/samples.png" height="260"><br><b>aircraft-classification-ablation</b></a></td>
   </tr>
+  </p>
 </table>
-</p>
+
 
 ## Research
 
