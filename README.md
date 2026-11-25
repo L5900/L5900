@@ -5,21 +5,21 @@ I am now completing an MSc in Artificial Intelligence at the University of Bolog
 
 ## Some Projects
 
-- [**wildfire-risk-italy**](https://github.com/luca-de-rosa/wildfire-risk-italy): monthly wildfire risk in Italy from NASA satellite data, from raw fire detections to a gridded dataset, simple models and an honest baseline.
 - [**jigsaw-transformer**](https://github.com/luca-de-rosa/jigsaw-transformer): reconstructing images from 9 shuffled, eroded patches with a transformer that predicts the arrangement and inpaints the gaps (Keras, 3.7M parameters).
 - [**aircraft-classification-ablation**](https://github.com/luca-de-rosa/aircraft-classification-ablation): a CNN trained from scratch on 100 aircraft variants, an ablation study of its design choices, and transfer learning with ResNet-18 (PyTorch, group project).
 - [**coin-recognition**](https://github.com/luca-de-rosa/coin-recognition): detecting and recognising euro coins in photos with classical computer vision (OpenCV, group project).
+- [**wildfire-risk-italy**](https://github.com/luca-de-rosa/wildfire-risk-italy): monthly wildfire risk in Italy from NASA satellite data, from raw fire detections to a gridded dataset, simple models and an honest baseline.
 - [**lexilands**](https://github.com/luca-de-rosa/lexilands): a quiz to learn to recognise European languages from city names, made for Geoguessr players (my CS50P final project; [certificate](harvardX_certificate.pdf)).
 
 <div align="center">
 <table>
   <tr>
-    <td align="center">&emsp;<a href="https://github.com/luca-de-rosa/wildfire-risk-italy"><img src="https://raw.githubusercontent.com/luca-de-rosa/wildfire-risk-italy/main/figures/detections_map.png" height="280"></a>&emsp;<br><b>wildfire-risk-italy</b><br><br></td>
     <td align="center">&emsp;<a href="https://github.com/luca-de-rosa/jigsaw-transformer"><img src="https://raw.githubusercontent.com/luca-de-rosa/jigsaw-transformer/main/figures/predictions.png" height="280"></a>&emsp;<br><b>jigsaw-transformer</b><br><br></td>
+    <td align="center">&emsp;<a href="https://github.com/luca-de-rosa/aircraft-classification-ablation"><img src="https://raw.githubusercontent.com/luca-de-rosa/aircraft-classification-ablation/main/figures/samples.png" height="280"></a>&emsp;<br><b>aircraft-classification-ablation</b><br><br></td>
   </tr>
   <tr>
     <td align="center">&emsp;<a href="https://github.com/luca-de-rosa/coin-recognition"><img src="https://raw.githubusercontent.com/luca-de-rosa/coin-recognition/main/figures/predictions.jpg" height="280"></a>&emsp;<br><b>coin-recognition</b><br><br></td>
-    <td align="center">&emsp;<a href="https://github.com/luca-de-rosa/aircraft-classification-ablation"><img src="https://raw.githubusercontent.com/luca-de-rosa/aircraft-classification-ablation/main/figures/samples.png" height="280"></a>&emsp;<br><b>aircraft-classification-ablation</b><br><br></td>
+      <td align="center">&emsp;<a href="https://github.com/luca-de-rosa/wildfire-risk-italy"><img src="https://raw.githubusercontent.com/luca-de-rosa/wildfire-risk-italy/main/figures/detections_map.png" height="280"></a>&emsp;<br><b>wildfire-risk-italy</b><br><br></td>
   </tr>
 </table>
 </div>
