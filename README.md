@@ -14,13 +14,13 @@ I am now completing an MSc in Artificial Intelligence at the University of Bolog
 <div align="center">
 <table>
   <tr>
-    <td align="center">&emsp;<a href="https://github.com/luca-de-rosa/wildfire-risk-italy"><img src="https://raw.githubusercontent.com/luca-de-rosa/wildfire-risk-italy/main/figures/detections_map.png" height="280"></a>&emsp;<br><b>wildfire-risk-italy</b><br><br></td>
     <td align="center">&emsp;<a href="https://github.com/luca-de-rosa/jigsaw-transformer"><img src="https://raw.githubusercontent.com/luca-de-rosa/jigsaw-transformer/main/figures/predictions.png" height="280"></a>&emsp;<br><b>jigsaw-transformer</b><br><br></td>
   </tr>
   <tr>
     <td align="center">&emsp;<a href="https://github.com/luca-de-rosa/coin-recognition"><img src="https://raw.githubusercontent.com/luca-de-rosa/coin-recognition/main/figures/predictions.jpg" height="280"></a>&emsp;<br><b>coin-recognition</b><br><br></td>
     <td align="center">&emsp;<a href="https://github.com/luca-de-rosa/aircraft-classification-ablation"><img src="https://raw.githubusercontent.com/luca-de-rosa/aircraft-classification-ablation/main/figures/samples.png" height="280"></a>&emsp;<br><b>aircraft-classification-ablation</b><br><br></td>
   </tr>
+    <td align="center">&emsp;<a href="https://github.com/luca-de-rosa/wildfire-risk-italy"><img src="https://raw.githubusercontent.com/luca-de-rosa/wildfire-risk-italy/main/figures/detections_map.png" height="280"></a>&emsp;<br><b>wildfire-risk-italy</b><br><br></td>
 </table>
 </div>
 
